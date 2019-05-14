@@ -5,6 +5,7 @@
 ## 目录
 - [ECS](./ECS.md)
 - [RDS](./RDS.md)
+- [SLB](./SLB.md)
 - [OSS](./OSS.md)
 - [MongoDB](./MongoDB.md)
 - [Redis](./Redis.md)
